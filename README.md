@@ -1,0 +1,1 @@
+This is just a repository with files needed for CI tests of PlateSolver project: https://github.com/dubovsky14/PlateSolver
